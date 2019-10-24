@@ -40,7 +40,7 @@ Step 3: Install the tutorials in your current working directory and download dat
 
    > holoviz examples
 
-This will (a) create a copy of the notebooks and related files needed for the tutorial in a new subdirectory ``holoviz-examples/tutorial``, and (b) download larger sample datasets such as Earthqukes.
+This will (a) create a copy of the notebooks and related files needed for the tutorial in a new subdirectory ``holoviz-examples/tutorial``, and (b) download larger sample datasets such as Earthquakes.
 
 If you only want to get a copy of the examples, or only want to download the data, there are individual commands ``holoviz copy-examples`` and ``holoviz fetch-data``; run e.g. ``holoviz copy-examples --help`` for more info.
 
